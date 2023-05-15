@@ -1,0 +1,3 @@
+2023-05-15 21:23:24 INFO  c.e.l.LoggerappApplicationTests:51 -   - Starting LoggerappApplicationTests using Java 17.0.7 with PID 7944 (started by ivan.suryawinata in /Users/ivan.suryawinata/Library/CloudStorage/SynologyDrive-ddog-mac/Personal Documents/Computing/springboot/loggerapp)
+2023-05-15 21:23:24 INFO  c.e.l.LoggerappApplicationTests:632 -   - No active profile set, falling back to 1 default profile: "default"
+2023-05-15 21:23:25 INFO  c.e.l.LoggerappApplicationTests:57 -   - Started LoggerappApplicationTests in 0.573 seconds (process running for 0.956)
